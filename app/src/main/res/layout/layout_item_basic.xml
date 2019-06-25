@@ -5,10 +5,22 @@
               android:orientation="vertical"
               android:layout_width="match_parent"
               android:layout_height="wrap_content"
+              android:layout_margin="5dp"
 android:padding="12dp">
-    <TextView android:layout_width="match_parent"
-              android:layout_height="match_parent"
-    android:id="@+id/text"
-    android:text="Some text"/>
+    <TextView android:layout_width="350dp"
+              android:layout_height="50dp"
+              android:textStyle="bold"
+              android:id="@+id/name"
+              android:text="Text Item Text Item Text Item"/>
+    <TextView android:layout_width="350dp"
+              android:layout_height="50dp"
+              android:id="@+id/address"
+              android:text="Text Item Text Item Text Item"/>
+    <TextView android:layout_width="350dp"
+              android:layout_height="50dp"
+              android:textStyle="italic"
+              android:id="@+id/rating"
+              android:text="Text Item Text Item Text Item"/>
+"/>
 
 </LinearLayout>
