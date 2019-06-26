@@ -1,2 +1,2 @@
 # Simple ListActivity Android App
-![](./outputs/12png)
+![](./outputs/2.png)
